@@ -45,6 +45,10 @@ Tailwindcss Typography
 ```
 npm install @tailwindcss/typography
 ```
+MDX
+```
+npx astro add mdx
+```
 
 ## 🧞 Commands
 
