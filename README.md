@@ -41,6 +41,10 @@ Tailwindcss
 ```
 npx astro add tailwind
 ```
+Tailwindcss Typography
+```
+npm install @tailwindcss/typography
+```
 
 ## 🧞 Commands
 
